@@ -1,19 +1,19 @@
 {
-  "name": "intro-to-node",
-  "version": "1.0.0",
-  "description": "",
+  "name": "nodefiles",
+  "version": "18.4.0",
+  "description": "simple web app",
   "main": "hello.js",
   "scripts": {
     "start": "node hello.js",
+    "dev": "nodemon hello.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dwebb64/Intro-to-Node.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Dan Webb",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dwebb64/Intro-to-Node/issues"
   },
