@@ -4,6 +4,10 @@
   "description": "simple web app",
   "main": "hello.js",
   "scripts": {
+<<<<<<< HEAD
+=======
+    "start": "node hello.js",
+>>>>>>> 7d3887b9c1eb5c537c59d40abe588ed68eb8a5d1
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
